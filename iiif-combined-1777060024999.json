@@ -1,0 +1,439 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif-merge.local/combined/1777060024415",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Combined Manifest (IIIF Merger)"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Created by merging 3 manifest(s)."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://cdm16786.contentdm.oclc.org/iiif/neareast:480/canvas/c0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Apartments"
+        ]
+      },
+      "width": 640,
+      "height": 423,
+      "items": [
+        {
+          "id": "https://cdm16786.contentdm.oclc.org/iiif/neareast:480/canvas/c0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cdm16786.contentdm.oclc.org/iiif/neareast:480/canvas/c0/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cdm16786.contentdm.oclc.org/iiif/2/neareast:480/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "width": 640,
+                    "height": 423,
+                    "tiles": [
+                      {
+                        "width": 640,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "id": "https://cdm16786.contentdm.oclc.org/iiif/2/neareast:480"
+                  }
+                ],
+                "width": 640,
+                "height": 423
+              },
+              "target": "https://cdm16786.contentdm.oclc.org/iiif/neareast:480/canvas/c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0001",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1"
+        ]
+      },
+      "width": 3842,
+      "height": 5069,
+      "items": [
+        {
+          "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0001/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0001/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/res/img0001",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "id": "https://digi.vatlib.it/iiifimage/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0001_pa_0001.jp2"
+                  }
+                ],
+                "width": 3842,
+                "height": 5069
+              },
+              "target": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0001"
+            }
+          ]
+        }
+      ],
+      "thumbnail": {
+        "@id": "https://digi.vatlib.it/pub/digit/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/thumb/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0001_pa_0001.tif.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 118,
+        "height": 150
+      }
+    },
+    {
+      "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0002",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "2"
+        ]
+      },
+      "width": 3842,
+      "height": 5069,
+      "items": [
+        {
+          "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0002/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0002/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/res/img0002",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "id": "https://digi.vatlib.it/iiifimage/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0002_pa_0002.jp2"
+                  }
+                ],
+                "width": 3842,
+                "height": 5069
+              },
+              "target": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0002"
+            }
+          ]
+        }
+      ],
+      "thumbnail": {
+        "@id": "https://digi.vatlib.it/pub/digit/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/thumb/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0002_pa_0002.tif.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 118,
+        "height": 150
+      }
+    },
+    {
+      "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0003",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "3"
+        ]
+      },
+      "width": 3842,
+      "height": 5069,
+      "items": [
+        {
+          "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0003/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0003/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/res/img0003",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "id": "https://digi.vatlib.it/iiifimage/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0003_pa_0003.jp2"
+                  }
+                ],
+                "width": 3842,
+                "height": 5069
+              },
+              "target": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0003"
+            }
+          ]
+        }
+      ],
+      "thumbnail": {
+        "@id": "https://digi.vatlib.it/pub/digit/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/thumb/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0003_pa_0003.tif.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 118,
+        "height": 150
+      }
+    },
+    {
+      "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0004",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "4"
+        ]
+      },
+      "width": 3842,
+      "height": 5069,
+      "items": [
+        {
+          "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0004/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0004/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/res/img0004",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "id": "https://digi.vatlib.it/iiifimage/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0004_pa_0004.jp2"
+                  }
+                ],
+                "width": 3842,
+                "height": 5069
+              },
+              "target": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0004"
+            }
+          ]
+        }
+      ],
+      "thumbnail": {
+        "@id": "https://digi.vatlib.it/pub/digit/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/thumb/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0004_pa_0004.tif.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 118,
+        "height": 150
+      }
+    },
+    {
+      "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0005",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "colorchecker"
+        ]
+      },
+      "width": 7178,
+      "height": 5293,
+      "items": [
+        {
+          "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0005/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0005/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/res/img0005",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "id": "https://digi.vatlib.it/iiifimage/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0005_zx_colorchecker.jp2"
+                  }
+                ],
+                "width": 7178,
+                "height": 5293
+              },
+              "target": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0005"
+            }
+          ]
+        }
+      ],
+      "thumbnail": {
+        "@id": "https://digi.vatlib.it/pub/digit/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/thumb/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0005_zx_colorchecker.tif.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 150,
+        "height": 104
+      }
+    },
+    {
+      "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0006",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "scala.millimetrica"
+        ]
+      },
+      "width": 7288,
+      "height": 5408,
+      "items": [
+        {
+          "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0006/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0006/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/res/img0006",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "id": "https://digi.vatlib.it/iiifimage/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0006_zz_scala.millimetrica.jp2"
+                  }
+                ],
+                "width": 7288,
+                "height": 5408
+              },
+              "target": "https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/canvas/p0006"
+            }
+          ]
+        }
+      ],
+      "thumbnail": {
+        "@id": "https://digi.vatlib.it/pub/digit/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29/thumb/PRI_BAVTS202600062_a.47.n.9301%2815.set.1924%29_0006_zz_scala.millimetrica.tif.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 150,
+        "height": 105
+      }
+    },
+    {
+      "id": "https://cdm16786.contentdm.oclc.org/iiif/neareast:242/canvas/c0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Apex of Pyramid of Khafre (Chefren)"
+        ]
+      },
+      "width": 600,
+      "height": 916,
+      "items": [
+        {
+          "id": "https://cdm16786.contentdm.oclc.org/iiif/neareast:242/canvas/c0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://cdm16786.contentdm.oclc.org/iiif/neareast:242/canvas/c0/annotation/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cdm16786.contentdm.oclc.org/iiif/2/neareast:242/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "width": 600,
+                    "height": 916,
+                    "tiles": [
+                      {
+                        "width": 600,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level1.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "id": "https://cdm16786.contentdm.oclc.org/iiif/2/neareast:242"
+                  }
+                ],
+                "width": 600,
+                "height": 916
+              },
+              "target": "https://cdm16786.contentdm.oclc.org/iiif/neareast:242/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Generated by IIIF Manifest Merger tool"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date created"
+        ]
+      },
+      "value": {
+        "en": [
+          "2026-04-24T19:47:04.415Z"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source manifests"
+        ]
+      },
+      "value": {
+        "en": [
+          "https://digitalcollections.lib.washington.edu/iiif/info/neareast/480/manifest.json, https://digi.vatlib.it/iiif/PRI_BAVTS202600062_a.47.n.9301(15.set.1924)/manifest.json, https://digitalcollections.lib.washington.edu/iiif/info/neareast/242/manifest.json"
+        ]
+      }
+    }
+  ]
+}
